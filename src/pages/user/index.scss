@@ -1,0 +1,200 @@
+@import './../../common.scss';
+.user {
+  width:100%;
+  overflow-x:hidden;
+  .user-top {
+    width:100%;
+    height:28vh;
+    background:url('../../assets/img/texture.png') repeat;
+    // filter:blur(5px);
+    .title{
+      text-align: center;
+      font-size:1rem;
+    }
+    .header{
+      padding:0.8rem;
+      display:flex;
+      align-items: center;
+      image{
+        width:4.2rem;
+        height:4.2rem;
+        border-radius:50%;
+        margin-right:0.8rem;
+      }
+      .user-text{
+        display:flex;
+        flex-direction: column;
+        justify-content: space-around;
+        >text{
+          &:first-child{
+            color:#444;
+            font-size:1.1rem;
+            font-weight:600;
+            margin-bottom:0.6rem;
+          }
+          &:last-child{
+            color:#666;
+            font-size:0.9rem;
+          }
+        }
+      }
+    }
+    .user-basic{
+      position: relative;
+      padding:0.8rem 2rem;
+      margin-top:0.4rem;
+      box-sizing: border-box;
+      display:flex;
+      align-items: center;
+      justify-content: space-between;
+      >view{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex:1;
+        .p-icon{
+          margin-bottom:0.4rem;
+          font-weight: 500;
+        }
+        text{ 
+          font-size:0.9rem;
+        }
+      }
+      
+    }
+  }
+  .user-operation{
+    position: relative;
+    // padding:0.8rem;
+    // .tab-menu{
+    //   width:80%;
+    //   margin:auto;
+    //   display:flex;
+    //   align-items: center;
+    //   justify-content: space-around;
+    //   view{
+    //     font-size:0.95rem;
+    //     color:#777;
+    //     &.active{
+    //       position: relative;
+    //       color:#444;
+    //       font-weight:500;
+    //       &::after{
+    //         content:'';
+    //         position: absolute;
+    //         bottom:-16px;
+    //         left:25%;
+    //         right:25%;
+    //         height:10px;
+    //         background:#f66;
+    //         border-radius: 100px;
+    //         z-index:9
+    //       }
+    //     }
+    //   }
+    // }
+    .user-pet{
+      width:100%;
+      height:13vh;
+      padding:0.2rem 0.8rem;
+      border-radius:0.6rem;
+      box-sizing: border-box;
+      overflow:hidden;
+      swiper-item{
+        border-radius:0.6rem;
+        overflow: hidden;
+        view{
+          width:100%;
+          height:100%;
+          border-radius:0.6rem;
+          overflow: hidden;
+          background:linear-gradient(70deg, $subMainColor 0%, $mainColor 100%);
+          image{
+            width:100%;
+            height:100%;
+          }
+        }
+      }
+    }
+    .user-data{
+      padding:0.8rem;
+      box-sizing: border-box;
+      .tips-info{
+        padding:0.8rem;
+        box-sizing: border-box;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        border-radius: 0.6rem;
+        >text{
+          font-size:1.2rem;
+          font-weight: 500;
+          color:#555;
+        }
+        .unit{
+          width:100%;
+          padding:0.8rem;
+          box-sizing: border-box;
+          border-radius: 0.3rem;
+          color:#444;
+          display:flex;
+          align-items: center;
+          justify-content: space-between;
+          border:1px solid #efefef;
+          margin-top:1rem;
+          &:not(:last-child){
+            margin-bottom:0.5rem;
+          }
+          .main-info{
+            flex:0 0 78%;
+            margin-right:0.6rem;
+            .title{
+              display:flex;
+              width:100%;
+              align-items: center;
+              justify-content: space-between;
+              margin-bottom:2%;
+              .title-text{
+                font-size:0.95rem;
+                color:#555;
+              }
+              .more{
+                color:#888;
+                font-size:0.75rem;
+              }
+            }
+            .sub-title{
+              color:#666;
+              font-size:0.85rem;
+            }
+          }
+          .status{
+            flex:0 0 18%;
+            flex-shrink: 0;
+            text-align: center;
+            .finish{
+              padding:0.2rem 0.4rem;
+              box-sizing: border-box;
+              border:1px solid $mainColor;
+              border-radius:0.2rem;
+              color:$mainColor;
+              font-size:0.75rem;
+            }
+            .p-icon{
+              font-size:1.5rem;
+              color:$mainColor;
+            }
+          }
+        }
+      }
+    }
+    &::before{
+      position: absolute;
+      content:'';
+      left:0;
+      right:0;
+      background:#fff;
+      border-radius:60px 60px 0 0;
+      height:40px;
+      top:-40px;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+@import "~taro-ui-vue/dist/style/index.scss";
+
+//字体图标
+.icon,.iconfont{
+  font-family: "iconfont" !important;
+  font-size: 1.6rem;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+//toast样式修改
+.at-toast{
+  .toast-body{
+    padding: 16rpx 28rpx;
+    background-color:rgba(0,0,0,0.65);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "本地购买商品",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445734970347522&productBfCode=BAT161707481153723360431&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445734970347522\",\"productBfCode\":\"BAT161707481153723360431\"}"
+          }
+        },
+        {
+          "name": "本地购买商品大王",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445812262981634&productBfCode=BAT161707481153723360431&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445812262981634\",\"productBfCode\":\"BAT161707481153723360431\"}"
+          }
+        },
+        {
+          "name": "本地购买商品照艳",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445849193828354&productBfCode=BAT161707481153723360431&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445849193828354\",\"productBfCode\":\"BAT161707481153723360431\"}"
+          }
+        },
+        {
+          "name": "本地购买商品王娜",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445888561565698&productBfCode=BAT161707481153723360431&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445888561565698\",\"productBfCode\":\"BAT161707481153723360431\"}"
+          }
+        },
+        {
+          "name": "本地购买商品苗",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445922594148354&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445922594148354\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品范远洁",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445959776653313&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445959776653313\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品沈青",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445991733055490&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445991733055490\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品吉超",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1374903459727400961&productBfCode=BAT161674817072144680359&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1374903459727400961\",\"productBfCode\":\"BAT161674817072144680359\"}"
+          }
+        },
+        {
+          "name": "本地购买商品刘万鹏",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1418045713119473665&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1418045713119473665\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品胡总",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1394902922713649154&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1394902922713649154\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品马雪",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1432923803972890626&productBfCode=BAT161674817072144680359&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1432923803972890626\",\"productBfCode\":\"BAT161674817072144680359\"}"
+          }
+        },
+        {
+          "name": "本地购买商品马雪2",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1432923803972890626&productBfCode=BAT163282182818794127699&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1432923803972890626\",\"productBfCode\":\"BAT163282182818794127699\"}"
+          }
+        },
+        {
+          "name": "本地购买商品珂",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1356445775701233665&productBfCode=BAT161672843670665310285&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1356445775701233665\",\"productBfCode\":\"BAT161672843670665310285\"}"
+          }
+        },
+        {
+          "name": "本地进入店铺马雪",
+          "pathName": "pages/index/index",
+          "query": "partnerId=1432923803972890626&page=0&origin=myShop",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"myShop\",\"partnerId\":\"1432923803972890626\"}"
+          }
+        },
+        {
+          "name": "本地进入店铺我",
+          "pathName": "pages/index/index",
+          "query": "partnerId=1356445734970347522&page=0&origin=myShop",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc13",
+            "extraData": "{\"origin\":\"myShop\",\"partnerId\":\"1356445734970347522\"}"
+          }
+        },
+        {
+          "name": "本地扫码进入店铺我",
+          "pathName": "pages/index/index",
+          "query": "scene=0%261356445734869684225%26",
+          "scene": 1047
+        },
+        {
+          "name": "测试环境分销商品我",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1381503556679958529&productBfCode=BAT161820994035546778986&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc14",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1381503556679958529\",\"productBfCode\":\"BAT161820994035546778986\"}"
+          }
+        },
+        {
+          "name": "测试环境分享商品珂",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1381547230147182594&productBfCode=BAT161820858810679378956&origin=share",
+          "scene": 1037,
+          "referrerInfo": {
+            "appId": "wx363c75d73b2fdc14",
+            "extraData": "{\"origin\":\"share\",\"partnerId\":\"1381547230147182594\",\"productBfCode\":\"BAT161820858810679378956\"}"
+          }
+        },
+        {
+          "name": "测试环境分享商品青",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1382206091011096577&productBfCode=BAT161820858810679378956&origin=share",
+          "scene": 1037
+        },
+        {
+          "name": "测试环境分享商品白",
+          "pathName": "pages/home/product-detail",
+          "query": "partnerId=1382208767362924546&productBfCode=BAT161820858810679378956&origin=share",
+          "scene": 1037
+        }
+      ]
+    }
+  }
+}
